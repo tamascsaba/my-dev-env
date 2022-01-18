@@ -14,7 +14,7 @@ Contents
 Operating System
 -------------------------------------
 
-> The software a computer runs on.
+> My machine is fully encrypted and i also upload all my importent document to the cloud.
 
 ### **I use:** [macOS (Apple)](http://www.apple.com/macos/)
 
