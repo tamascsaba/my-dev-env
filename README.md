@@ -24,6 +24,8 @@ Operating System
 
 [Set up a Windows](https://codeburst.io/setup-a-modern-development-environment-on-windows-10-dfa79323a35a)
 
+[Tips for windows users](https://github.com/asuh/front-end-windows)
+
 
 Terminal
 -------------------
@@ -65,6 +67,6 @@ Editor/IDE
 -------------------
 ### **I use:** [Webstorm](https://www.jetbrains.com/webstorm/) and [vscode](https://code.visualstudio.com/)
 
-[Webstorm plugin list](https://gist.github.com/tamascsaba/d3792dd77db08350f5f6c8428b0abe8e)
+My webstorm [plugin list](https://gist.github.com/tamascsaba/d3792dd77db08350f5f6c8428b0abe8e)
 
-[Vscode settings](https://gist.github.com/tamascsaba/f6d574f9fa7f0e45a46a5fc2ebb29b02)
+My synced [Vscode settings](https://gist.github.com/tamascsaba/f6d574f9fa7f0e45a46a5fc2ebb29b02)
