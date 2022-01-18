@@ -9,6 +9,7 @@ Contents
 *   Operating System
 *   Terminal
 *   Browser
+*   Editor/IDE
 
 Operating System
 -------------------------------------
@@ -32,7 +33,6 @@ My zsh plugins: `git node yarn npm ng kubectl nx-completion`
 **Other Options:** [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701), [Terminator](https://terminator-gtk3.readthedocs.io/en/latest/) or [hyper](https://hyper.is/)
 
 [Guide to setup windows terminal](https://freshman.tech/windows-terminal-guide/)
-
 
 
 Browser
@@ -59,3 +59,12 @@ Browser
 *   [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko)
 *   [Wordtune](https://chrome.google.com/webstore/detail/wordtune-ai-powered-writi/nllcnknpjnininklegdoijpljgdjkijc)
 *   [Funkify – Disability Simulator](https://chrome.google.com/webstore/detail/funkify-%E2%80%93-disability-simu/ojcijjdchelkddboickefhnbdpeajdjg)
+
+
+Editor/IDE
+-------------------
+### **I use:** [Webstorm](https://www.jetbrains.com/webstorm/) and [vscode](https://code.visualstudio.com/)
+
+[Webstorm plugin list](https://gist.github.com/tamascsaba/d3792dd77db08350f5f6c8428b0abe8e)
+
+[Vscode settings](https://gist.github.com/tamascsaba/f6d574f9fa7f0e45a46a5fc2ebb29b02)
