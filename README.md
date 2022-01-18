@@ -16,7 +16,7 @@ Operating System
 
 > My machine is fully encrypted and i also upload all my importent document to the cloud.
 
-### **I use:** [macOS (Apple)](http://www.apple.com/macos/)
+#### **I use:** [macOS (Apple)](http://www.apple.com/macos/)
 
 **Other Options:** [Windows](https://www.microsoft.com/en-us/windows), [Linux](https://en.wikipedia.org/wiki/Linux)
 
@@ -29,7 +29,7 @@ Operating System
 
 Terminal
 -------------------
-### **I use:** [iTerm2](https://iterm2.com/) with [Oh My Zsh](https://ohmyz.sh/)
+#### **I use:** [iTerm2](https://iterm2.com/) with [Oh My Zsh](https://ohmyz.sh/)
 My zsh plugins: `git node yarn npm ng kubectl nx-completion`
 
 **Other Options:** [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701), [Terminator](https://terminator-gtk3.readthedocs.io/en/latest/) or [hyper](https://hyper.is/)
@@ -42,7 +42,7 @@ Browser
 
 > The program used for navigating the internet.
 
-### **I use:** [Google Chrome](https://www.google.com/chrome/) and [Brave](https://brave.com/) or [Firefox Development Edition](https://www.mozilla.org/hu/firefox/developer/)
+#### **I use:** [Google Chrome](https://www.google.com/chrome/) and [Brave](https://brave.com/) or [Firefox Development Edition](https://www.mozilla.org/hu/firefox/developer/)
 
 **Other Options:** [Firefox](https://www.mozilla.org/en-US/firefox/products/), [Opera](http://www.opera.com/), [Safari](http://www.apple.com/safari/) (Mac only), [Edge](https://www.microsoft.com/en-us/windows/microsoft-edge/microsoft-edge)
 
