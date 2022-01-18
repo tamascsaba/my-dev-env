@@ -7,6 +7,7 @@ Contents
 ---------------------
 
 *   Operating System
+*   Terminal
 *   Browser
 
 Operating System
@@ -21,6 +22,18 @@ Operating System
 [Set up a Mac](https://sourabhbajaj.com/mac-setup/)
 
 [Set up a Windows](https://codeburst.io/setup-a-modern-development-environment-on-windows-10-dfa79323a35a)
+
+
+Terminal
+-------------------
+### **I use:** [iTerm2](https://iterm2.com/) with [Oh My Zsh](https://ohmyz.sh/)
+My zsh plugins: `git node yarn npm ng kubectl nx-completion`
+
+**Other Options:** [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701), [Terminator](https://terminator-gtk3.readthedocs.io/en/latest/) or [hyper](https://hyper.is/)
+
+[Guide to setup windows terminal](https://freshman.tech/windows-terminal-guide/)
+
+
 
 Browser
 -------------------
