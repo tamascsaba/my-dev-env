@@ -1,20 +1,22 @@
 # My Frontend Development Enviroment
 Some tips for setting up development enviromnent.
 
-It doesn't matter what you use: Mac or Windows. Vim or Emacs. Tabs or spaces. PHP or Python. If all the options didn't have merit, there wouldn't be an argument. This list is not meant to be an endorsement for or against anything, just one person's web development workflow. Learn. Be open minded. Try new things. Research. Discover what works best for you. This is not an extensive list, this is my list.
+It doesn't matter what you use: Mac or Windows. Vim or Emacs. Tabs or spaces. JavaScript or TypeScript even PHP. If all the options didn't have merit, there wouldn't be an argument. This list is not meant to be an endorsement for or against anything, just one person's web development workflow. Learn. Be open minded. Try new things. Research. Discover what works best for you. This is not an extensive list, this is my list.
 
 Contents
 ---------------------
 
 *   Operating System
+*   Usefull Applications
 *   Terminal
+*   Node
 *   Browser
 *   Editor/IDE
 
 Operating System
 -------------------------------------
 
-> My machine is fully encrypted and i also upload all my importent document to the cloud.
+> My machine is fully encrypted and i also upload all my important documents to the cloud.
 
 #### **I use:** [macOS (Apple)](http://www.apple.com/macos/)
 
@@ -22,10 +24,14 @@ Operating System
 
 [Set up a Mac](https://sourabhbajaj.com/mac-setup/)
 
-[Set up a Windows](https://codeburst.io/setup-a-modern-development-environment-on-windows-10-dfa79323a35a)
-
 [Tips for windows users](https://github.com/asuh/front-end-windows)
 
+Usefull Applications
+-------------------------------------
+*   [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) - keep-awake app 
+*   [Time out](https://www.dejal.com/timeout/) - break reminder
+*   [CopyClip](https://fiplab.com/apps/copyclip-for-mac) - clipboard management 
+*   [Hand Mirror](https://handmirror.app/) - one click camera check
 
 Terminal
 -------------------
@@ -34,13 +40,14 @@ My zsh plugins: `git node yarn npm ng kubectl nx-completion`
 
 **Other Options:** [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal/9n0dx20hk701), [Terminator](https://terminator-gtk3.readthedocs.io/en/latest/) or [hyper](https://hyper.is/)
 
-[Guide to setup windows terminal](https://freshman.tech/windows-terminal-guide/)
+Command line fuzzy finder: [fzf](https://github.com/junegunn/fzf)
 
+Node
+-------------------
+I prefer [n](https://github.com/mklement0/n-install) over [nvm](https://github.com/nvm-sh/nvm), becouse our global modules remanin installed when you update the node version.
 
 Browser
 -------------------
-
-> The program used for navigating the internet.
 
 #### **I use:** [Google Chrome](https://www.google.com/chrome/) and [Brave](https://brave.com/) or [Firefox Development Edition](https://www.mozilla.org/hu/firefox/developer/)
 
@@ -67,6 +74,8 @@ Editor/IDE
 -------------------
 ### **I use:** [Webstorm](https://www.jetbrains.com/webstorm/) and [vscode](https://code.visualstudio.com/)
 
-My webstorm [plugin list](https://gist.github.com/tamascsaba/d3792dd77db08350f5f6c8428b0abe8e)
+My webstorm [plugins](https://gist.github.com/tamascsaba/d3792dd77db08350f5f6c8428b0abe8e)
 
-My synced [Vscode settings](https://gist.github.com/tamascsaba/f6d574f9fa7f0e45a46a5fc2ebb29b02)
+My [Vscode settings](https://gist.github.com/tamascsaba/f6d574f9fa7f0e45a46a5fc2ebb29b02)
+
+Vim setup with [awesome_vimrc](https://github.com/amix/vimrc)
